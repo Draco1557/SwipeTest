@@ -21,7 +21,8 @@
             android:layout_height="match_parent"
             android:id="@+id/textView4"
             android:layout_weight="1"
-            android:background="@color/colorBlack"/>
+            android:background="@color/colorPrimaryDark"
+            android:textColor="@color/colorWhite"/>
     </LinearLayout>
 
 </RelativeLayout>
